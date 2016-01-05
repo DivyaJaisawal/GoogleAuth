@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Clipboard</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_email">Email id</string>
+    <string name="login_password">Password</string>
+    <string name="login_google">Login</string>
+
+
+    <string name="welcome_user">Welcome, %s.</string>
+    <string name="network_error">An error occurring while contacting Google. Please try again later.</string>
+    <string name="logged_out">You are now logged out</string>
+    <string name="login_bikestore_message">Not implemented login flow.</string>
+</resources>
